@@ -1,4 +1,8 @@
-# Seismograph data from nuclear test in North Korea.IC.MDJ.00.BHZ | 2017-09-03T03:30:00.019538Z - 2017-09-03T03:34:59.969538Z | 20.0 Hz, 32 bit int(c) Albuquerque Seismological Laboratory (ASL)/USGS. DOI: 10.7914/SN/IChttps://agilescientific.com/blog/2017/9/8/x-lines-of-python-global-seismic-dataSample rate: 20 Hz
+# Seismograph data from nuclear test in North Korea.
+# IC.MDJ.00.BHZ | 2017-09-03T03:30:00.019538Z - 2017-09-03T03:34:59.969538Z | 20.0 Hz, 32 bit int
+# (c) Albuquerque Seismological Laboratory (ASL)/USGS. DOI: 10.7914/SN/IC
+# https://agilescientific.com/blog/2017/9/8/x-lines-of-python-global-seismic-data
+# Sample rate: 20 Hz
 2.129000000000000000e+03
 2.405000000000000000e+03
 2.591000000000000000e+03
