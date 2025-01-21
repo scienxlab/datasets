@@ -1,5 +1,5 @@
 *.[aA][gG][sS]4? text linguist-vendored
-*.las text linguist-vendored
+*.x?las text linguist-vendored
 *.LAS text linguist-vendored
 *.D?LIS text linguist-vendored
 *.[dD][aA][tT] text linguist-vendored
