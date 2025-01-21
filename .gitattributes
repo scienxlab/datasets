@@ -1,5 +1,7 @@
 *.[aA][gG][sS]4? text linguist-vendored
-*.[dD]?[lL][aA][sS] text linguist-vendored
+*.las text linguist-vendored
+*.LAS text linguist-vendored
+*.D?LIS text linguist-vendored
 *.[dD][aA][tT] text linguist-vendored
 *.[sS][pP][wW][lL][aA] text linguist-vendored
 *.[sS][eE][gG][yY] binary linguist-vendored
