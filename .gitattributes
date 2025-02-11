@@ -1,8 +1,13 @@
-*.[aA][gG][sS] text linguist-vendored
 *.[lL][aA][sS] text linguist-vendored
 *.[lL][iI][sS] text linguist-vendored
 *.[dD][lL][iI][sS] text linguist-vendored
+
 *.[dD][aA][tT] text linguist-vendored
+
 *.[sS][pP][wW][lL][aA] text linguist-vendored
+*.[aA][gG][sS] text linguist-vendored
+
 *.[sS][eE][gG][yY] binary linguist-vendored
+*.[sS][gG][yY] binary linguist-vendored
+
 *.[nN][pP][yY] binary linguist-vendored
