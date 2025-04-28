@@ -1,0 +1,12 @@
+Column,Description,Type,Units
+Well Name,Name of the well that the record is from,string,
+Depth,Measured depth below KB,float,m
+Formation,Which formation the record is from,string,
+RelPos,Position of the record relative to the formation bottom,float,
+Marine,Whether a record is of a marine or non-marine sample,integer,
+GR,"Gamma ray, natural radioactivity",float,API
+ILD,Deep induction log,float,ohm.m
+DeltaPHI,Density-neutron porosity difference,float,v/v
+PHIND,Porosity neutron density,float,v/v
+PE,Photoelectric factor,float,b/e
+Facies,"Facies code, see key",integer,
