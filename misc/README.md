@@ -8,4 +8,8 @@
 
 > Tut Haklidir, F.S., & Haklidir, M. (2019). Prediction of Reservoir Temperatures Using Hydrogeochemical Data, Western Anatolia Geothermal Systems (Turkey): A Machine Learning Approach. Natural Resources Research, 29, 2333-2346. DOI:10.1007/s11053-019-09596-0
 
+**`pechelbronn.txt`** is a text file of the first ever petrophysical log, a resistivity log recorded by the Schlumberger brothers on 5 September 1927 in Alsace, France. See file header for more details.
+
+**`Pechelbronn.las`** is the same data in LAS format.
+
 **`thomsen-1986-table1.csv`** is data from Table 1 in the famous Thomsen anisotropy paper of 1986.
