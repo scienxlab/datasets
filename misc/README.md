@@ -8,6 +8,8 @@
 
 > Tut Haklidir, F.S., & Haklidir, M. (2019). Prediction of Reservoir Temperatures Using Hydrogeochemical Data, Western Anatolia Geothermal Systems (Turkey): A Machine Learning Approach. Natural Resources Research, 29, 2333-2346. DOI:10.1007/s11053-019-09596-0
 
+**`hall_1997_eocene-ainsa-basin-spain.csv`** represents volume percent of limestone fragments, quartz fragments, and matrix in thin section samples from the Eocene Sobrarbe Formation, Ainsa Basin, Spain. From: Hall, M (1997). _Sequence stratigraphy and early diagenesis: the Sobrarbe Formation, Ainsa Basin, Spain_. Doctoral thesis, University of Manchester, September 1997.
+
 **`pechelbronn.txt`** is a text file of the first ever petrophysical log, a resistivity log recorded by the Schlumberger brothers on 5 September 1927 in Alsace, France. See file header for more details.
 
 **`Pechelbronn.las`** is the same data in LAS format.
