@@ -18,7 +18,7 @@ The files all contain headers describing the data and specifying the owner and t
 - **`piano_22050Hz.txt`** &mdash; A clip from Bach's Prelude No. 1 in C major.
 - **`seg_44100Hz.txt`** &mdash; A voice saying, "S E G".
 - **`seismic_250Hz.txt`** &mdash; A reflection seismic trace.
-- **`synthetic_250Hz.txt`** &mdash; A toy synthetic signal.
+- **`synthetic_seismic_250Hz.txt`** &mdash; A toy synthetic signal.
 - **`tremor_100Hz.txt`** &mdash; Mt Redoubt pre-eruption harmonic tremor.
 - **`upsweep_400Hz.txt`** &mdash; An [unexplained sound](https://en.wikipedia.org/wiki/List_of_unexplained_sounds) (probably volcanic).
 
