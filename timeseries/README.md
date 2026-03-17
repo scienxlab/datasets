@@ -21,3 +21,22 @@ The files all contain headers describing the data and specifying the owner and t
 - **`synthetic_250Hz.txt`** &mdash; A toy synthetic signal.
 - **`tremor_100Hz.txt`** &mdash; Mt Redoubt pre-eruption harmonic tremor.
 - **`upsweep_400Hz.txt`** &mdash; An [unexplained sound](https://en.wikipedia.org/wiki/List_of_unexplained_sounds) (probably volcanic).
+
+## Read a file with `numpy`
+
+Quick and dirty way to read one of these files:
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+    
+    url = "https://raw.githubusercontent.com/scienxlab/datasets/refs/heads/main/timeseries/synthetic_250Hz.txt"
+    
+    s = np.loadtxt(url)
+    fs = 250  # Hz
+    
+    dt = 1 / fs
+    t1 = s.size * dt
+    t = np.arange(0, t1, dt)
+    
+    fig, ax = plt.subplots(figsize=(15, 2))
+    ax.plot(t, s)
