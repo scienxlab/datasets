@@ -6,7 +6,7 @@ A collection of signals from various sources:
 - Several recordings are from [`timefreak`](https://github.com/kwinkunks/timefreak), a small collection of signals originally made by various authors at the _Latest developments in time-frequency analysis_ post-convention workshop organized by Mirko van der Baan, Sergey Fomel, and Jean-Baptiste Tary at the SEG Annual Meeting in Denver, Colorado, on 30 October 2014. Read more about this workshop: https://agilescientific.com/blog/2014/11/4/all-the-time-freaks.html.
 - The workshop arose from a paper: Tary, J. B., R. H. Herrera, J. Han, and M. van der Baan (2014), Spectral estimation—What is new? What is next?, Rev. Geophys., 52, 723–749, doi:10.1002/2014RG000461. So those signals cite that paper.
 
-The files all contain headers describing the data and specifying the owner and the license.
+The files all contain headers describing the data and specifying the owner and the license. The sample rate is also included in the name of each file.
 
 - **`airgun_800Hz.txt`** &mdash; A marine airgun, used for recording seismic data.
 - **`bat_96000Hz.txt`** &mdash; A Vespertilionid bat chirp. 
